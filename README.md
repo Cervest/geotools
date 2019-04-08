@@ -9,6 +9,8 @@ allowing ease of use in Clojure.
 
 ## Usage
 
+[![Clojars Project](https://img.shields.io/clojars/v/earth.cervest/geotools.svg)](https://clojars.org/earth.cervest/geotools)
+
 ```clojure
 (ns example.core
   (:require cervest.geotools.core :refer [get-mgrs-from-lat-lon]))
