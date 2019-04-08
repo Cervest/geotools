@@ -1,4 +1,4 @@
-(defproject earth.cervest/geotools "1.0.1"
+(defproject earth.cervest/geotools "1.0.2"
   :description "Clojure wrapper for existing OSS library for MGRS <--> lat/lon conversion"
   :url "http://github.com/Cervest/geotools"
   :license {:name "NASA OPEN SOURCE AGREEMENT VERSION 1.3"
