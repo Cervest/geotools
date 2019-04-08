@@ -1,7 +1,7 @@
-(defproject geotools "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
-  :license {:name "EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0"
+(defproject earth.cervest/geotools "1.0.0"
+  :description "Clojure wrapper for existing OSS library for MGRS <--> lat/lon conversion"
+  :url "http://github.com/Cervest/geotools"
+  :license {:name "NASA OPEN SOURCE AGREEMENT VERSION 1.3"
             :url "https://www.eclipse.org/legal/epl-2.0/"}
   :dependencies [[org.clojure/clojure "1.10.0"]]
   :java-source-paths ["javasrc"]
