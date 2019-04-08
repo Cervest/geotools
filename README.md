@@ -9,14 +9,14 @@ allowing ease of use in Clojure.
 
 ## Usage
 
-{code}
+```clojure
 (ns example.core
   (:require cervest.geotools.core :refer [get-mgrs-from-lat-lon]))
 
 (get-mgrs-from-lat-lon 45.121 1.000)
 
 ;; "31TCK 42702 98338"
-{/code}
+```
 
 ## License
 
